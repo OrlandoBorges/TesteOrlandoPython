@@ -5,3 +5,5 @@ a = int(input('Insira um número: '));
 b = int(input('Insira um segundo número: '));
 
 print(f'A soma de {a} e {b} é >>> {sum(a, b)}');
+
+print('teste de merge')
